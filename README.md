@@ -45,8 +45,8 @@ outArr[1]="World";
 ```
 ### <a name="task5"></a>5. Использовать контроль версий в работе над этим небольшим проектом (не должно быть так что все залито одним коммитом, как минимум этап 2, 3 и 4 должны быть расположены в разных коммитах)
 
-Ссылка на список коммитов -> [https://github.com/arhangel2i/Control_Work/commits/master][id5]
-Ссылка на список коммитов -> [github.com/arhangel2i/Control_Work/commits/master][id5]
+Ссылка на список коммитов -> [https://github.com/Ivan-Kutuzov/work/commits/main][id5]
+Ссылка на список коммитов -> [github.com/Ivan-Kutuzov/work/commits/main][id5]
 
 [id1]: https://github.com/Ivan-Kutuzov/work/commits/main
 [id2]: block_diagram.png
